@@ -1,6 +1,6 @@
 let vitorias = 70;
 let derrotas = 20;
-let nivel = " ";
+let nivel = "";
 
 function calcularSaldoRankeadas(vitorias, derrotas) {
     let saldoVitorias = vitorias - derrotas;
