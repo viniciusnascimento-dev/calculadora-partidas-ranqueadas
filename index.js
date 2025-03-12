@@ -23,4 +23,4 @@ function calcularSaldoRankeadas(vitorias, derrotas) {
 }
 
 let saldoVitorias = calcularSaldoRankeadas(vitorias, derrotas);
-console.log("O Herói tem saldo de " + saldoVitorias + " está no nível de " + nivel)
+console.log("O Herói tem saldo de " + saldoVitorias + " está no nível de " + nivel);
